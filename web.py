@@ -26,5 +26,5 @@ def work():
 @app.route("/own")
 def own():
     return render_template("own.html")
-if __name__ == "__main__":
-   app.run()
+#if __name__ == "__main__":
+   #app.run()
